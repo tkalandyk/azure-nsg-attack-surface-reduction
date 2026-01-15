@@ -1,5 +1,6 @@
 
-<img width="1536" height="1024" alt="ChatGPT Image Jan 14, 2026, 08_40_40 PM" src="https://github.com/user-attachments/assets/5036c536-50b9-476d-82a4-c2259cb68d27" />
+<img width="1536" height="1024" alt="Cybersecurity guardian rhino in defense" src="https://github.com/user-attachments/assets/0dd94796-5482-4c1b-9c8d-7a4c1150dbbb" />
+
 
 
 # 🔐 Azure NSG Attack Surface Reduction  
