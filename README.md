@@ -39,10 +39,7 @@ All other inbound traffic remained **explicitly denied** by default.
 ---
 
 ## 📸 Evidence — NSG Hardening Applied
-
-
 <img width="940" height="788" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/52eb2dc6-24dc-4e5b-a1ac-089ca5e7fa7e" />
-
 ---
 
 ## 🎯 Outcome
