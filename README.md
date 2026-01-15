@@ -48,6 +48,9 @@ All other inbound traffic remained **explicitly denied** by default.
   <em>Inbound RDP access restricted to a trusted IP with default-deny enforced</em>
 </p>
 
+<img width="940" height="788" alt="Untitled design" src="https://github.com/user-attachments/assets/ffe32dba-ff20-4e60-ae7e-1c5aa26256f6" />
+
+
 ---
 
 ## 🎯 Outcome
