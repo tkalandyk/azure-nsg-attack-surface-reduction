@@ -40,13 +40,6 @@ All other inbound traffic remained **explicitly denied** by default.
 
 ## 📸 Evidence — NSG Hardening Applied
 
-<p align="center">
-  <img src="./screenshots/nsg-rdp-restricted.png" width="800" alt="NSG inbound rules showing RDP restricted to a trusted IP">
-</p>
-
-<p align="center">
-  <em>Inbound RDP access restricted to a trusted IP with default-deny enforced</em>
-</p>
 
 <img width="940" height="788" alt="Untitled design" src="https://github.com/user-attachments/assets/ffe32dba-ff20-4e60-ae7e-1c5aa26256f6" />
 
