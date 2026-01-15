@@ -60,6 +60,26 @@ Restricting management access is one of the fastest, most reliable ways to reduc
 
 ---
 
+
+## 🧭 Framework Alignment
+
+### MITRE ATT&CK
+This control helps mitigate common attacker techniques associated with exposed management services:
+
+- **T1133 – External Remote Services**  
+  Restricting RDP access reduces exposure to internet-facing remote services commonly targeted for initial access.
+
+- **T1078 – Valid Accounts**  
+  Limiting access to trusted sources lowers the risk of credential-based abuse against remote management interfaces.
+
+This change focuses on **preventing initial access**, rather than detecting malicious activity after compromise.
+
+---
+
+### NIST Cybersecurity Framework (CSF)
+This remediation aligns with the **Protect** function of the NIST CSF by implementing access control safeguards to limit unauthorized access to systems.
+
+
 ## 🧩 Real-World Note
 In production environments, this control is commonly paired with:
 - Azure Bastion  
