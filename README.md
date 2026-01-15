@@ -1,3 +1,7 @@
+
+<img width="1536" height="1024" alt="ChatGPT Image Jan 14, 2026, 08_40_40 PM" src="https://github.com/user-attachments/assets/5036c536-50b9-476d-82a4-c2259cb68d27" />
+
+
 # 🔐 Azure NSG Attack Surface Reduction  
 ### *RDP Hardening with Least Privilege Access*
 
