@@ -76,9 +76,6 @@ This change focuses on **preventing initial access**, rather than detecting mali
 
 ---
 
-### NIST Cybersecurity Framework (CSF)
-This remediation aligns with the **Protect** function of the NIST CSF by implementing access control safeguards to limit unauthorized access to systems.
-
 
 ## 🧩 Real-World Note
 In production environments, this control is commonly paired with:
